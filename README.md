@@ -8,6 +8,7 @@ This repository contains my personal bug bounty findings and security research.
 * XSS & HTML Injection
 * IDOR
 * Reconnaissance
+* - IDOR Vulnerability in Account Access
 
 ## 📄 Writeups
 
